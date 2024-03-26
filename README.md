@@ -1,0 +1,1 @@
+My HTML template is a profile base website that captures the entire operation of witty biz resources. It encapsulates the Landing page, About us, services, training, blog, contact etc. The HTML document are enhanced with Cascade Style Sheet imputs and Java script codes to improve the user experience. 
